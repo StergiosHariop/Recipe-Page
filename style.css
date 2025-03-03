@@ -15,8 +15,8 @@ body {
 }
 .container {
 	@media (min-width: 431px) {
-		max-width: 65%;
-		margin: 80px 0;
+		max-width: 726px;
+		margin: 100px 0;
 	}
 }
 .card {
@@ -28,7 +28,7 @@ body {
 	padding: 0;
 
 	@media (min-width: 431px) {
-		padding: 35px;
+		padding: 40px;
 	}
 }
 .wrapper {
